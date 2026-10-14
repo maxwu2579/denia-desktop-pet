@@ -1,0 +1,7 @@
+Method: built-in image_gen, imagegen skill, precise-object-edit, transparent_background=true.
+Edit target: assets/head.png from v16. Original preserved.
+New generated asset saved as assets/focused.png in this package.
+Runtime composition: eye/eyebrow/mouth patches only; original head pixels outside facial area retained.
+
+Final prompt:
+Use case: precise-object-edit. Edit target: the supplied transparent head sprite of the existing pink-haired chibi Denia desktop pet. Produce one focused / concentrating expression sprite for this exact character. Change ONLY the facial expression: very subtly lower the upper eyelids, bring the eyebrows slightly inward with a gentle determined concentration, and change the little smile into a small neutral closed mouth. Keep the large purple irises and bright cute expression, NOT angry, NOT sad, NOT sleepy. Preserve the same face position, head pose, original pink hair and every strand shape, paper doll black headband, blue and gold hair clip, ribbons, black outline, shading and transparent silhouette. Match the reference canvas aspect ratio, pixel alignment, same scale and margins exactly, so it can be substituted without the hair or head jumping. Entire isolated head only, no body, hands, keyboard, background, text or new accessories. Crisp clean illustration with genuine transparent background. Only one focused expression.

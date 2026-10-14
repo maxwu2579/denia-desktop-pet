@@ -1,0 +1,9 @@
+/dist/
+/artifacts/
+/release/
+*.exe
+*.zip
+*.pdb
+*.tmp
+settings.xml*
+.vs/
